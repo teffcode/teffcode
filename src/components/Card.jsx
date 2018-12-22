@@ -7,7 +7,7 @@ const Card = ({ img, link, text }) => (
     <img className="card__img"src={img} alt="img-card" />
     <div className="card__text">
       <a href={link}>
-        <i class="fas fa-link"></i>
+        <i className="fas fa-link"></i>
       </a>
       <code>{text}</code>
     </div>

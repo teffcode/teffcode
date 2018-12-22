@@ -21,7 +21,6 @@ class Header extends Component {
             <Link to={'/medellincss'}><li>&lt; <code>medellin-css</code> /&gt;</li></Link>
             <Link to={'/workshops'}><li>&lt; <code>workshops</code> /&gt;</li></Link>
             <Link to={'/talks'}><li>&lt; <code>talks</code> /&gt;</li></Link>
-            <Link to={'/tips'}><li>&lt; <code>tips</code> /&gt;</li></Link>
           </ul>
         </nav>
       </header>
