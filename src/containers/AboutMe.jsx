@@ -15,6 +15,8 @@ class AboutMe extends Component {
             - I was born on February 1, 1994 👶 <br/> 
             - I live in Medellín, Colombia 💐 <br/> 
             - I'm Telecommunications Engineer 🎓 <br/> 
+            - I love candies 🍭 <br/> 
+            - I love Nikkei food 🍣 <br/> 
             - I was speaker at <span>JS Conf CO 2018</span> 🎤 <br/> 
             - I was mentor at <span>PioCamp</span> 💅 <br/> (Programming  Bootcamp to Girls)<br/> 
             - I was mentor at <span>NG Girls</span> 🅰 <br/> 

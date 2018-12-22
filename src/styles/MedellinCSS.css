@@ -3,9 +3,14 @@
   text-align: center;
 }
 
-.medellincss__cards {
+.medellincss img {
+  width: 80%;
+  margin: 20px;
+  border: 5px solid #fbfad3;
+}
+
+.medellincss__images {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  grid-gap: 20px;
-  padding: 30px 20px;
+  grid-gap: 5px;
 }

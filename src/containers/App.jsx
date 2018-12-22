@@ -16,7 +16,7 @@ class App extends Component {
         <div>
           <Header />
           <div className="app">
-            <Route path="/aboutme" component={AboutMe} />
+            <Route path="/" component={AboutMe} />
             <Route path="/medellincss" component={MedellinCSS} />
             <Route path="/workshops" component={Workshops} />
             <Route path="/talks" component={Talks} />
