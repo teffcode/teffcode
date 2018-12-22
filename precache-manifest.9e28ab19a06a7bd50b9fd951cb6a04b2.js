@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/teffcode/static/media/meet10.8b7b1688.jpeg"
   },
   {
-    "revision": "a8729d9c34b3756b0f4e",
-    "url": "/teffcode/static/css/main.270b7716.chunk.css"
+    "revision": "bc2a065c11370be8feb2",
+    "url": "/teffcode/static/css/main.36444930.chunk.css"
   },
   {
     "revision": "45f49d8e18aa5c4feffb",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/teffcode/static/media/meet9.4df5ad92.jpeg"
   },
   {
-    "revision": "a8729d9c34b3756b0f4e",
-    "url": "/teffcode/static/js/main.a8729d9c.chunk.js"
+    "revision": "bc2a065c11370be8feb2",
+    "url": "/teffcode/static/js/main.bc2a065c.chunk.js"
   },
   {
     "revision": "cf31caf88f403bd1917e2f0471fa874e",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/teffcode/static/media/cssanimations.d172d119.png"
   },
   {
-    "revision": "eb2e52302621774f64e216ae293aa1d2",
+    "revision": "33147350cce2ecd672f9880bb24ff9aa",
     "url": "/teffcode/index.html"
   }
 ];
