@@ -13,7 +13,7 @@ class Header extends Component {
           <a href="https://medium.com/@teffcode"><i className="fab fa-medium"></i></a>
         </div>
         <div className="header__title">
-          <Link to={'/'}><h1>&lt; <code>Teffcode</code>/&gt;</h1></Link>
+          <Link to={'/'}><h1>&lt; <code>Teffcode</code> /&gt;</h1></Link>
         </div>
         <nav className="header__navigation">
           <ul>
