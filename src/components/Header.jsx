@@ -13,14 +13,13 @@ class Header extends Component {
           <a href="https://medium.com/@teffcode"><i className="fab fa-medium"></i></a>
         </div>
         <div className="header__title">
-          <h1> <code>Teffcode</code></h1>
+          <Link to={'/'}><h1>&lt; <code>Teffcode</code>/&gt;</h1></Link>
         </div>
         <nav className="header__navigation">
           <ul>
-            <Link to={'/aboutme'}><li>&lt; <code>about-me</code> /&gt;</li></Link>
-            <Link to={'/medellincss'}><li>&lt; <code>medellin-css</code> /&gt;</li></Link>
-            <Link to={'/workshops'}><li>&lt; <code>workshops</code> /&gt;</li></Link>
             <Link to={'/talks'}><li>&lt; <code>talks</code> /&gt;</li></Link>
+            <Link to={'/workshops'}><li>&lt; <code>workshops</code> /&gt;</li></Link>
+            <Link to={'/medellincss'}><li>&lt; <code>medellin-css</code> /&gt;</li></Link>
           </ul>
         </nav>
       </header>

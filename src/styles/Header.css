@@ -24,6 +24,11 @@
   width: 100%;
 }
 
+.header__title a {
+  text-decoration: none;
+  color: #333;
+}
+
 .header__title h1 {
   text-align: center;
   font-size: 60px;
