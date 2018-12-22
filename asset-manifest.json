@@ -1,7 +1,7 @@
 {
-  "main.css": "/teffcode/static/css/main.c34443eb.chunk.css",
-  "main.js": "/teffcode/static/js/main.956805b9.chunk.js",
-  "main.js.map": "/teffcode/static/js/main.956805b9.chunk.js.map",
+  "main.css": "/teffcode/static/css/main.270b7716.chunk.css",
+  "main.js": "/teffcode/static/js/main.a8729d9c.chunk.js",
+  "main.js.map": "/teffcode/static/js/main.a8729d9c.chunk.js.map",
   "static/js/1.45f49d8e.chunk.js": "/teffcode/static/js/1.45f49d8e.chunk.js",
   "static/js/1.45f49d8e.chunk.js.map": "/teffcode/static/js/1.45f49d8e.chunk.js.map",
   "runtime~main.js": "/teffcode/static/js/runtime~main.f229921e.js",
@@ -26,8 +26,8 @@
   "static/media/viewencapsulation.png": "/teffcode/static/media/viewencapsulation.7ad046af.png",
   "static/media/cssgrid.png": "/teffcode/static/media/cssgrid.f7b7dbe3.png",
   "static/media/cssanimations.png": "/teffcode/static/media/cssanimations.d172d119.png",
-  "static/css/main.c34443eb.chunk.css.map": "/teffcode/static/css/main.c34443eb.chunk.css.map",
+  "static/css/main.270b7716.chunk.css.map": "/teffcode/static/css/main.270b7716.chunk.css.map",
   "index.html": "/teffcode/index.html",
-  "precache-manifest.4795fa242be9edda4412065d2036a0e3.js": "/teffcode/precache-manifest.4795fa242be9edda4412065d2036a0e3.js",
+  "precache-manifest.9507a583bedc0106c932e9a332e69048.js": "/teffcode/precache-manifest.9507a583bedc0106c932e9a332e69048.js",
   "service-worker.js": "/teffcode/service-worker.js"
 }
